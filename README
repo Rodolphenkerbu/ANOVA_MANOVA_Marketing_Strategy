@@ -1,0 +1,11 @@
+# ANOVA and MANOVA Analysis of Marketing data
+
+This repository contains an R Markdown report and supporting code for analyzing customer engagement across different marketing channels using ANOVA and MANOVA techniques.
+
+This project implements one-way ANOVA, two-way ANOVA, and MANOVA in R to analyze customer engagement across marketing channels. Using a dataset of 600 records, the study tests whether Email, Radio, 
+
+Social Media, and TV differ in their impact on Purchases, Click-Through Rate (CTR), and Time Spent. Statistical assumptions were evaluated using Levene’s, Shapiro-Wilk, and Box’s M tests, and results were 
+
+visualized through boxplots, interaction plots, and canonical variates plots. The report includes formal hypothesis framing, embedded diagnostics, and a discussion of future modeling directions including 
+
+PERMANOVA and machine learning.
