@@ -1,5 +1,0 @@
----
-title: "ANOVA_MANOVA"
-output: html_document
----
-
